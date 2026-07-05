@@ -2,4 +2,4 @@
 
 Link to live application:
 
-https://www.brainpath-beryl.vercel.app
+https://brainpath-beryl.vercel.app
